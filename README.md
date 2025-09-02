@@ -16,6 +16,4 @@ It showcases my skills, projects, and interests as a **Web Developer**.
 - **CSS3**
 - **Google Fonts**
 
----
-
-## 📂 Project Structure
+Thank You for visiting my website!!
